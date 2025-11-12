@@ -21,8 +21,8 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // 标题
 const title = document.createElement('h2');
-title.textContent = 'DEV-日程管理系统';
-title.style.color = '#e74c3c'; // 添加红色样式
+title.textContent = 'FEATURE-智能日程规划';
+title.style.color = '#3498db'; // 添加蓝色样式
     
     // 添加日程表单
     const scheduleForm = document.createElement('div');
